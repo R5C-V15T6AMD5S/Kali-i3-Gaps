@@ -1,7 +1,8 @@
 # Dotfile for Kali Linux [i3-gaps]
 
 ## A description of what the project is for.
-- My second attempt at ricing Linux, after I did Mint 20.2. Inspiration came from https://www.reddit.com/r/unixporn/ .  - I want to learn ethical hacking so that's why I chose Kali.
+- My second attempt at ricing Linux, after I did Mint 20.2. Inspiration came from https://www.reddit.com/r/unixporn/ .  
+- I want to learn ethical hacking so that's why I chose Kali.
 
 ## Screenshots
 
