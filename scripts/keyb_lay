@@ -1,0 +1,6 @@
+#!/usr/bin/zsh
+
+function key_lay() {
+    setxkbmap -layout $1
+    exit
+}

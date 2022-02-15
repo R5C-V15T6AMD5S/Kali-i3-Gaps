@@ -1,0 +1,9 @@
+#!/usr/bin/zsh
+
+function anfetch() {
+    neofetch --source ~/.config/neofetch/anon.txt
+}
+
+function sfetch() {
+    neofetch --source ~/.config/neofetch/scp.txt
+}

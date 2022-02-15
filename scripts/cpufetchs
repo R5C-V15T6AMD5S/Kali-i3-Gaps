@@ -1,0 +1,5 @@
+#!/usr/bin/zsh
+
+function cpufetch() {
+    cd ~/Documents/cpufetch && ./cpufetch
+}

@@ -1,0 +1,9 @@
+#!/usr/bin/zsh
+
+function i3cfg() {
+    xed ~/.config/i3/config
+}
+
+function cfv() {
+    vim ~/.config/i3/config
+}
