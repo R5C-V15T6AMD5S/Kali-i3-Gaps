@@ -16,9 +16,8 @@
 - WM: `i3-gaps`
 - Bar: `Polybar`
 - Shell: `zsh 5.8`
-- Text editor: `Vim`
 - File manager: `thunar`
 - Terminal: `kitty`
-- Compositor: `compton` [ for background transparency ]
+- Compositor: `compton` + `picom` [ for background transparency ]
 - Terminal apps: `neofetch`, `tty-clock`, `cmatrix`, `cava`
 - Wallpaper link: https://www.wallpaperflare.com/kali-linux-kali-linux-nethunter-unix-lenovo-chrome-neon-wallpaper-yhfbr/download/1920x1080
